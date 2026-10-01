@@ -15,7 +15,17 @@ Estados: 🟢 completo · 🟡 en progreso · 🔵 planificado · 🔴 bloqueado
 
 | Documento | Descripcion | Estado |
 |---|---|---|
-| [[ficha_tesis]] | Titulo, problema, objetivos, alcance | 🔴 |
+| [[ficha_tesis]] | Titulo, problema, objetivos, alcance | 🟡 |
+
+## Avance
+
+| Documento | Descripcion | Estado |
+|---|---|---|
+| [[capitulo_i_introduccion]] | Capitulo I. Introduccion (borrador) | 🟡 |
+| [[dec_001_enfoque_y_diseno_metodologico]] | Diseno y objetivos propuestos | 🟡 |
+| [[dec_002_estilo_citas_iso_690]] | Estilo ISO 690 | 🟢 |
+| [[referencias_capitulo_i]] | 29 referencias | 🟡 |
+| [[2026-09-30_capitulo_i_introduccion]] | Bitacora de la sesion | 🟢 |
 
 ## Secciones
 
