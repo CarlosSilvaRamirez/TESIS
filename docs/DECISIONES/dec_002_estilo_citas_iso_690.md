@@ -2,12 +2,15 @@
 tipo: decision
 id: dec_002
 fecha: 2026-09-30
-estado: aceptada
+estado: reemplazada
 tags: [decision, citas]
-related: [capitulo_i_introduccion, referencias_capitulo_i, dec_001_enfoque_y_diseno_metodologico]
+related: [capitulo_i_introduccion, referencias_capitulo_i, dec_001_enfoque_y_diseno_metodologico, dec_003_estilo_citas_ieee]
 ---
 
 # DEC-002 — Estilo de citas ISO 690 autor-fecha
+
+> [!warning] Reemplazada
+> El 2026-10-19 el usuario pidio formato IEEE; ver [[dec_003_estilo_citas_ieee]].
 
 ## Contexto
 La guia institucional de elaboracion de trabajos (v06, 2026) requiere un estilo de citacion para el [[capitulo_i_introduccion]].
